@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Caneta Bic",
+            "price": 5.89
+        },
+        {
+            "id": 2,
+            "name": "Notebook Positivo",
+            "price": 3213.89
+        },
+        {
+            "id": 3,
+            "name": "Samsung S24",
+            "price": 5000.89
+        },
+        {
+            "id": 4,
+            "name": "Geladeira",
+            "price": 3280.89
+        }
+    ]
+}
